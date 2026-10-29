@@ -122,3 +122,7 @@ The AWS classroom account gave the function a broad `PowerUserRole`. On top of t
 - The function only reads the first record of each S3 event, which is enough for single-file uploads.
 - Column validation could give a clearer message than a raw `KeyError`.
 - Summaries for several areas could be combined into one report.
+
+verification code:
+
+WTC-HC5482X3
